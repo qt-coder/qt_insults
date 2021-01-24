@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+#app {
+  width: 100vw;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
